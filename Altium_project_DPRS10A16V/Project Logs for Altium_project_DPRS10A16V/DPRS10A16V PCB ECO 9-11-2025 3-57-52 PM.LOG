@@ -1,0 +1,44 @@
+Added Component: Designator=J1(CONN_SM04B-PASS-_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM04B-PASS-TBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CONN_SM04B-PASS-_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM04B-PASS-TBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J3(CONN_SM04B-PASS-_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM04B-PASS-TBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J4(CONN_SM04B-PASS-_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM04B-PASS-TBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=VIN Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=VOUT Pin=J2-1
+Added Pin To Net: NetName=VOUT Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=VIN Pin=J3-1
+Added Pin To Net: NetName=VIN Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=VOUT Pin=J4-1
+Added Pin To Net: NetName=VOUT Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Member To Class: ClassName=Buck Member=Component J1 SM04B-PASS-TBT
+Added Member To Class: ClassName=Buck Member=Component J2 SM04B-PASS-TBT
+Added Member To Class: ClassName=Buck Member=Component J3 SM04B-PASS-TBT
+Added Member To Class: ClassName=Buck Member=Component J4 SM04B-PASS-TBT
