@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VOUT_ID Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Member From Class: ClassName=IdealDiodeMain Member=C22
