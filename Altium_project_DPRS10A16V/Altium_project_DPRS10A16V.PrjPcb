@@ -134,6 +134,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMJHCBRF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Altium_project_DPRS10A16V\Design Rule Check - DPRS10A16V.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
