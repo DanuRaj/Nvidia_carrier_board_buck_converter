@@ -12,10 +12,10 @@ preventing a loss of control in case of a single power source failure.
 - Device Specification: Input voltage 6-36V, Output voltage 16V(10A max).
 
 ## Links
-- Component Comparision, selection and budget calculation: 
-- Board version details: https:
-- Board fabrication batch details: 
-- Block diagram: 
+- Component Comparision, selection and budget calculation: https://1drv.ms/x/c/90db604890557ba4/EQwyB9T5Cy5Jqm9UW85tFZ8BQgGVj6BCc97MGfK7pBIuOw?e=8HD6iG
+- Board version details: https://docs.google.com/spreadsheets/d/1ysmzugmfdfwkyfaRKPDwJ48EtTlpV0uTiGiZc5H5LqE/edit?usp=sharing
+- Board fabrication batch details: https://docs.google.com/spreadsheets/d/1lbHuOr3Xf0H5Bty-ZQFxi4Lm0dUs_V9qaKUnfOi1CwQ/edit?usp=sharing
+- Block diagram: https://drive.google.com/file/d/1fUM-bkZPR1wnyUHCijoqjtAjoX7Ru1Ks/view?usp=sharing
 ## Top and Bottom Images
 <p align="left">
 <img width="343" height="300" alt="{FED3436D-6B1E-4319-BCD1-F0DEEA7FE846}" src="https://github.com/user-attachments/assets/15c8b917-e6f9-44b6-bc23-58445cc88d1e" />
