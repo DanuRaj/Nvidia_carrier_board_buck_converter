@@ -1,0 +1,39 @@
+
+
+   ---- Transcoding 'E:\QRBOTS\PCB Projects\Nvidia_carrier_board_buck_converter\Altium_project_DPRS10A16V\Project Outputs for Altium_project_DPRS10A16V\GerberX2\DPRS10A16V_Copper_Signal_Top.gbr' ----   Fri Oct  3 15:24:26 2025
+
+D15   --> D100
+D31   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\QRBOTS\PCB Projects\Nvidia_carrier_board_buck_converter\Altium_project_DPRS10A16V\Project Outputs for Altium_project_DPRS10A16V\GerberX2\DPRS10A16V_Pads_Top.gbr' ----   Fri Oct  3 15:24:26 2025
+
+D15   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\QRBOTS\PCB Projects\Nvidia_carrier_board_buck_converter\Altium_project_DPRS10A16V\Project Outputs for Altium_project_DPRS10A16V\GerberX2\DPRS10A16V_Paste_Bot.gbr' ----   Fri Oct  3 15:24:26 2025
+
+D44   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\QRBOTS\PCB Projects\Nvidia_carrier_board_buck_converter\Altium_project_DPRS10A16V\Project Outputs for Altium_project_DPRS10A16V\GerberX2\DPRS10A16V_Paste_Top.gbr' ----   Fri Oct  3 15:24:26 2025
+
+D12   --> D104
+D15   --> D105
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\QRBOTS\PCB Projects\Nvidia_carrier_board_buck_converter\Altium_project_DPRS10A16V\Project Outputs for Altium_project_DPRS10A16V\GerberX2\DPRS10A16V_Soldermask_Bot.gbr' ----   Fri Oct  3 15:24:26 2025
+
+D19   --> D106
+D44   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\QRBOTS\PCB Projects\Nvidia_carrier_board_buck_converter\Altium_project_DPRS10A16V\Project Outputs for Altium_project_DPRS10A16V\GerberX2\DPRS10A16V_Soldermask_Top.gbr' ----   Fri Oct  3 15:24:27 2025
+
+D55   --> D108
+-----------------------------------------------------------------

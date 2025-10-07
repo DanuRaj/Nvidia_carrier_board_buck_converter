@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\QRBOTS\PCB Projects\Nvidia_carrier_board_buck_converter\Altium_project_DPRS10A16V\DPRS10A16V.PcbDoc
-Date     : 9/19/2025
-Time     : 2:40:47 PM
+Date     : 10/3/2025
+Time     : 1:22:56 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -66,4 +66,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
