@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : E:\QRBOTS\PCB Projects\Nvidia_carrier_board_buck_converter\Altium_project_DPRS10A16V\DPRS10A16V.PcbDoc
+Date     : 10/3/2025
+Time     : 1:22:56 PM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=6mil) (Max=236mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room BUCK_A (Bounding Region = (997.866mil, 1000mil, 1950mil, 2795.276mil) (InComponentClass('U_Buck1'))
+Rule Violations :0
+
+Processing Rule : Room ID_A (Bounding Region = (2028mil, 1917mil, 2422.677mil, 2375mil) (InComponentClass('ID_A'))
+Rule Violations :0
+
+Processing Rule : Room ID_B (Bounding Region = (1310mil, 1949.921mil, 1680mil, 2369.921mil) (InComponentClass('ID_B'))
+Rule Violations :0
+
+Processing Rule : Room BUCK_B (Bounding Region = (1950mil, 1017.41mil, 2925mil, 2795mil) (InComponentClass('U_Buck2'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
